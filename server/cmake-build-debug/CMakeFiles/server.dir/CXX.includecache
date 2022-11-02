@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hausa/Desktop/program/projects/hoiHorse/server/common/log/localLog.h
+iostream
+-
+
+C:/Users/hausa/Desktop/program/projects/hoiHorse/server/common/staticValues/localStaticValues.h
+
+C:/Users/hausa/Desktop/program/projects/hoiHorse/server/common/status/localStatus.h
+
+C:/Users/hausa/Desktop/program/projects/hoiHorse/server/main.cpp
+iostream
+-
+winsock2.h
+-
+afxres.h
+-
+common/log/localLog.h
+C:/Users/hausa/Desktop/program/projects/hoiHorse/server/common/log/localLog.h
+common/status/localStatus.h
+C:/Users/hausa/Desktop/program/projects/hoiHorse/server/common/status/localStatus.h
+common/staticValues/localStaticValues.h
+C:/Users/hausa/Desktop/program/projects/hoiHorse/server/common/staticValues/localStaticValues.h
+

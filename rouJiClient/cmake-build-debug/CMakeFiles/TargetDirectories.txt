@@ -1,0 +1,3 @@
+C:/Users/hausa/Desktop/program/projects/hoiHorse/rouJiClient/cmake-build-debug/CMakeFiles/rouJiClient.dir
+C:/Users/hausa/Desktop/program/projects/hoiHorse/rouJiClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hausa/Desktop/program/projects/hoiHorse/rouJiClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
